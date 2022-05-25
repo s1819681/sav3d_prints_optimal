@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sav3d_prints_optimal/static/css/main.f380ffd7.css",
+    "main.js": "/sav3d_prints_optimal/static/js/main.69b207ff.js",
+    "static/js/787.cf7c573c.chunk.js": "/sav3d_prints_optimal/static/js/787.cf7c573c.chunk.js",
+    "static/media/resized_640_Spaghetti_0120.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0120.0b2118fb71c65829e1d2.jpg",
+    "static/media/resized_640_Spaghetti_0063.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0063.1062513288efd237fc42.jpg",
+    "static/media/resized_640_Spaghetti_0134.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0134.a3dfecf00b358d3182cb.jpg",
+    "static/media/resized_640_Spaghetti_0029.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0029.e598e211474ec3ac7e36.jpg",
+    "static/media/resized_640_Spaghetti_0123.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0123.21a84e11c22890a0264e.jpg",
+    "static/media/resized_640_Spaghetti_0003.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0003.d45983bd4a4f6359fe3c.jpg",
+    "static/media/resized_640_Spaghetti_0162.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0162.31ec211caf81907acec9.jpg",
+    "static/media/resized_640_Spaghetti_0112.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0112.cf516f9e2771dfd934ff.jpg",
+    "static/media/resized_640_Spaghetti_0036.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0036.a057abf826ef12391c56.jpg",
+    "static/media/resized_640_Spaghetti_0015.jpg": "/sav3d_prints_optimal/static/media/resized_640_Spaghetti_0015.cedb3f24ef1959104b59.jpg",
+    "static/media/logo.svg": "/sav3d_prints_optimal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sav3d_prints_optimal/index.html",
+    "main.f380ffd7.css.map": "/sav3d_prints_optimal/static/css/main.f380ffd7.css.map",
+    "main.69b207ff.js.map": "/sav3d_prints_optimal/static/js/main.69b207ff.js.map",
+    "787.cf7c573c.chunk.js.map": "/sav3d_prints_optimal/static/js/787.cf7c573c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f380ffd7.css",
+    "static/js/main.69b207ff.js"
+  ]
+}
